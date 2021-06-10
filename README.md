@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prima-secondary-ramadhan-b38624201/"><img src="https://img.shields.io/badge/-Prima%20Secondary%20R-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prima-secondary-ramadhan-b38624201/"><img src="https://img.shields.io/badge/-Prima%20Secondary%20Ramadhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/primaskuy_/"><img src="https://img.shields.io/badge/-@primaskuy__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://discordapp.com/channels/@primasr/1411/"><img src="https://img.shields.io/badge/-primasr-7289DA?style=flat&logo=discord&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/prima.s.r.2001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/6285232414072"><img src="https://img.shields.io/badge/+6285232414072-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
