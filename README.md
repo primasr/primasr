@@ -1,4 +1,5 @@
-### Hi there, my name is Prima 👋
+<h3 align="center">Hi there, my name is Prima 👋</h3>
+<hr>
 
 <!--
 **primasr/primasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
