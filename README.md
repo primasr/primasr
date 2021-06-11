@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/primaskuy_/"><img src="https://img.shields.io/badge/-@primaskuy__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/channels/@primasr/1411/"><img src="https://img.shields.io/badge/-primasr-7289DA?style=flat&logo=discord&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/prima.s.r.2001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<!--
 <a href="https://wa.me/6285232414072"><img src="https://img.shields.io/badge/+6285232414072-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+-->
 </p>
